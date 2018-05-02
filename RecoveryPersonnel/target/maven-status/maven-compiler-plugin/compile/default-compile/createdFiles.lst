@@ -1,0 +1,10 @@
+com\socgen\recovery\service\IStudentService.class
+com\socgen\recovery\dao\impl\StudentDaoImpl.class
+com\socgen\recovery\config\ApplicationBinder.class
+com\socgen\recovery\config\ApplicationConfig.class
+com\socgen\recovery\resource\data\Student.class
+com\socgen\recovery\resource\IStudentResource.class
+com\socgen\recovery\resource\impl\StudentResourceImpl.class
+com\socgen\recovery\dao\impl\student\StudentEntity.class
+com\socgen\recovery\service\impl\StudentServiceImpl.class
+com\socgen\recovery\dao\IStudentDao.class
